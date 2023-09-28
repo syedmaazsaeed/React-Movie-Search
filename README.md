@@ -6,7 +6,8 @@ Welcome to the React Movie Search App, created by Syed Maaz Saeed.
 
 The React Movie Search App is a web application that allows users to search for movies and discover new films easily.
 
-![App Screenshot](E:\Git-hub Repository\React-Movie-Search\public\assets\images\Movie-Hub-Preview.png)
+![App Screenshot](https://github.com/syedmaazsaeed/React-Movie-Search/raw/main/public/assets/images/Movie-Hub-Preview.png)
+
 
 ## App Features
 
