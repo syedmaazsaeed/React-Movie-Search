@@ -8,6 +8,9 @@ The React Movie Search App is a web application that allows users to search for 
 
 ![App Screenshot](https://github.com/syedmaazsaeed/React-Movie-Search/raw/main/public/assets/images/Movie-Hub-Preview.png)
 
+![App Screenshot 2](https://github.com/syedmaazsaeed/React-Movie-Search/raw/main/public/assets/images/Screenshot%20(870).png)
+
+
 
 ## App Features
 
