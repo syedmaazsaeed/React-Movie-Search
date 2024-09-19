@@ -25,7 +25,7 @@ The React Movie Search App is designed for movie enthusiasts who want to explore
 
 3.💻 User-Friendly Interface: Experience a clean, responsive design that ensures smooth movie discovery for all users.
 
-<h1>💻 Technologies Used</h1>
+<h1>💻 Tech Stack🎥🍿</h1>
 
 1.⚛️ React: The entire app is built using React, ensuring a fast, dynamic, and interactive user experience.
 
