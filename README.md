@@ -5,9 +5,11 @@ Welcome to the React Movie Search App created by Syed Maaz Saeed! This app is a 
 
 The React Movie Search App is designed for movie enthusiasts who want to explore a vast database of films. With this app, users can:
 
-🔍 Search for movies by title.
-📝 View detailed information like the movie poster, release year, and type.
-🎨 Enjoy a sleek and user-friendly interface for hassle-free navigation.
+1.🔍 Search for movies by title.
+
+2.📝 View detailed information like the movie poster, release year, and type.
+
+3.🎨 Enjoy a sleek and user-friendly interface for hassle-free navigation.
 
 ![App Screenshot](https://github.com/syedmaazsaeed/React-Movie-Search/raw/main/public/assets/images/Movie-Hub-Preview.png)
 
@@ -18,12 +20,15 @@ The React Movie Search App is designed for movie enthusiasts who want to explore
 <h1>🚀 Key Features</h1>
 
 1.🔍 Search for Movies: Easily find movies by typing the title into the search bar.
+
 2.📝 View Movie Details: Click on any movie card to access more detailed information such as the release year, poster, and genre.
+
 3.💻 User-Friendly Interface: Experience a clean, responsive design that ensures smooth movie discovery for all users.
 
 <h1>💻 Technologies Used</h1>
 
 1.⚛️ React: The entire app is built using React, ensuring a fast, dynamic, and interactive user experience.
+
 2.🎬 OMDB API: We leverage the OMDB API to fetch comprehensive movie details, making this app a gateway to thousands of movie titles.
 
 <h1>🛠️ Getting Started</h1>
@@ -54,4 +59,11 @@ npm start
 
 💬 User Feedback: Clear error handling if no movie is found.
 
+
+<h1>✨ Contribution</h1>
+Contributions are welcome! Feel free to fork the repository and submit a pull request to improve the app or add new features. Let's make movie searching even more fun! 😎🎥
+
+<h1>👨‍💻 Author</h1>
+
+Created with 💻 & 🎬 by Syed Maaz Saeed.
 
